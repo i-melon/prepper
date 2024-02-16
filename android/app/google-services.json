@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13624263442",
+    "project_id": "prepper-b9e43",
+    "storage_bucket": "prepper-b9e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13624263442:android:1891087dd34c025b3ba9cb",
+        "android_client_info": {
+          "package_name": "com.example.preper_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtSxH1P6L4LprMLpHVRRReM2HAci8BGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
